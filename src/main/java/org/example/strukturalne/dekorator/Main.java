@@ -3,7 +3,7 @@ package org.example.strukturalne.dekorator;
 import org.example.czynnosciowe.strategia.*;
 
 public class Main {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         Employer mike = new Employer();
         mike.setSalary(10000);

@@ -1,9 +1,9 @@
 package org.example.kreacyjne.budowniczy;
 
 public class Home {
-    private int doorNumber;
-    private int windowsNumber;
-    private int numberFloors;
+    private final int doorNumber;
+    private final int windowsNumber;
+    private final int numberFloors;
 
     private Home(int doorNumber, int windowsNumber, int numberFloors) {
         this.doorNumber = doorNumber;

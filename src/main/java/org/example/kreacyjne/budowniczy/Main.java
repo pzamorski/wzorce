@@ -1,7 +1,5 @@
 package org.example.kreacyjne.budowniczy;
 
-import org.example.kreacyjne.singleton.Loger;
-
 public class Main {
     public static void main(String[] args)  {
 

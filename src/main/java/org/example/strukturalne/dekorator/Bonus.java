@@ -1,7 +1,7 @@
 package org.example.strukturalne.dekorator;
 
 public abstract class Bonus implements Payable{
-    private Payable payable;
+    private final Payable payable;
 
     public Bonus(Payable payable) {
         this.payable = payable;

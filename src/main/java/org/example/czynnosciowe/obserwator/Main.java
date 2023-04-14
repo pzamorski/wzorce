@@ -1,9 +1,5 @@
 package org.example.czynnosciowe.obserwator;
 
-import org.example.kreacyjne.budowniczy.Home;
-
-import java.util.Observable;
-import java.util.Observer;
 import java.util.concurrent.TimeUnit;
 
 public class Main {

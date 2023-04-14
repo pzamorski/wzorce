@@ -3,7 +3,7 @@ package org.example.strukturalne.adapter;
 import org.example.czynnosciowe.strategia.Employer;
 
 public class officialTripingEpmoyer {
-    private Employer employer;
+    private final Employer employer;
 
     public officialTripingEpmoyer(Employer employer) {
 
